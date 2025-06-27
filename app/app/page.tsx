@@ -63,9 +63,9 @@ export default function SoulSyncApp() {
       console.error("Error generating quote:", error)
       // Fallback quotes based on mood
       const fallbackQuotes = {
-        happy: "Your joy is contagious. Keep spreading those positive vibes! ✨",
-        sad: "It's okay to feel sad. Every emotion is valid, and tomorrow brings new possibilities. 🌅",
-        anxious: "Take a deep breath. You are stronger than your worries, and this feeling will pass. 🌸",
+        happy: "Your joy is contagious. Keep spreading those positive vibes and keep laughing! ✨",
+        sad: "It's okay to feel sad.Let the sadness run out and be energitic 🌅",
+        anxious: "Take a deep breath. You are stronger than your worries, and this feeling will pass and i am sure you will do it . 🌸",
         excited: "Your enthusiasm is beautiful! Channel that energy into something meaningful today. 🚀",
         tired: "Rest is not a luxury, it's a necessity. Be gentle with yourself today. 🌙",
         grateful: "Gratitude transforms ordinary moments into extraordinary blessings. 🙏",

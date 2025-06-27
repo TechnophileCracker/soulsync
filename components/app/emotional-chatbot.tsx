@@ -132,7 +132,8 @@ export default function EmotionalChatbot({ currentMood }: EmotionalChatbotProps)
           <div>
             <CardTitle className="text-2xl">Emotional Support Chat</CardTitle>
             <CardDescription className="text-cyan-100">
-              Your AI companion is here to listen and support you 24/7
+             Your AI companion is here to listen and support you 24/7.
+
             </CardDescription>
           </div>
         </div>

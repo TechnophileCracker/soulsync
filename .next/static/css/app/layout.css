@@ -2665,6 +2665,9 @@ video {
 .ease-out {
   animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
 }
+.running {
+  animation-play-state: running;
+}
 
 /* Custom animations */
 @keyframes gradient-x {
@@ -4695,4 +4698,3 @@ html {
 [data-side=right] .\[\[data-side\=right\]_\&\]\:cursor-e-resize {
   cursor: e-resize;
 }
-

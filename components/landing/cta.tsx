@@ -20,7 +20,7 @@ export default function CTA() {
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Transform Your Mental Wellness?</h2>
             <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
               Join thousands of people who are already using SoulSync to build better emotional habits and find inner
-              peace.
+              peace using SoulSync.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -30,7 +30,7 @@ export default function CTA() {
                 className="bg-white text-purple-600 hover:bg-gray-100 text-lg px-8 py-4 font-semibold"
               >
                 <Link href="/app" className="flex items-center gap-2">
-                  Start Your Journey Today
+                  Start Your Journey Now 
                   <ArrowRight className="h-5 w-5" />
                 </Link>
               </Button>

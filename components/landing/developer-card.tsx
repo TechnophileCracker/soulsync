@@ -22,21 +22,7 @@ const developers = [
       email: "rabinchudali07@gmail.com",
     },
   },
-  {
-    name: "Amrit Bhandari",
-    role: "UI/UX Designer & Motion Expert",
-    description: "Creative designer focused on user experience and beautiful animations",
-    skills: ["Figma", "Framer Motion", "Tailwind CSS", "User Research", "Prototyping"],
-    avatar: "AB",
-    image: "https://i.ibb.co/S4hr1mdd/Screenshot-20250607-130651.png",
-    gradient: "from-pink-600 to-orange-600",
-    icon: Palette,
-    social: {
-      github: "#",
-      linkedin: "#",
-      email: "amritbhandari969@gmail.com",
-    },
-  },
+  
 ]
 
 export default function DeveloperCard() {
@@ -128,7 +114,7 @@ export default function DeveloperCard() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Passionate developers and designers working together to revolutionize mental wellness through technology
+            Passionate developer and designer to revolutionize mental wellness through technology
           </p>
         </motion.div>
 
@@ -323,7 +309,7 @@ export default function DeveloperCard() {
           <Card className="border-0 shadow-xl bg-gradient-to-r from-purple-500/10 via-pink-500/10 to-cyan-500/10 dark:from-purple-500/20 dark:via-pink-500/20 dark:to-cyan-500/20 backdrop-blur-md">
             <CardContent className="p-8">
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-                Want to collaborate with our team?
+                Want to collaborate with me?
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-6">
                 We're always excited to work on innovative projects that make a positive impact on mental wellness and
